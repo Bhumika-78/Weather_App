@@ -120,7 +120,7 @@ Just **HTML + CSS + JavaScript + an API**.
 
 This isn't a project I built recently.
 
-I made it in 1st year, 2nd semester, when I was just getting started with web development.
+I made it in 1st year, when I was just getting started with web development.
 
 At the time, I was learning how websites work, how JavaScript can make a page interactive, and — most importantly — how to work with an external API and turn real-world data into something useful.
 
