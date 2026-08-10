@@ -62,6 +62,7 @@ This is especially useful when:
 * 📤 Sharing a weather report with someone else
 
 > The PDF is a snapshot of the forecast at the time it is downloaded, so you can access that information even without reopening the app or having an internet connection.
+<img width="903" height="446" alt="image" src="https://github.com/user-attachments/assets/0d06a50c-353e-43a7-b58b-270799cdeec2" />
 
 ---
 
@@ -124,9 +125,7 @@ I made it in 1st year, when I was just getting started with web development.
 
 At the time, I was learning how websites work, how JavaScript can make a page interactive, and — most importantly — how to work with an external API and turn real-world data into something useful.
 
-I'm uploading it now in 3rd year because I want my GitHub to reflect the projects I've built throughout my learning journey — not just the projects that are polished enough to show today.
-
-Every project doesn't have to show where you are. Some show where you started.
+I'm uploading it now in 3rd year because I want my GitHub to reflect the projects I've built throughout my learning journey.
 
 ---
 
