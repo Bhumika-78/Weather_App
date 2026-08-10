@@ -116,29 +116,24 @@ Just **HTML + CSS + JavaScript + an API**.
 
 ---
 
-## 🗂️ Project Structure
+**🕰️ A little context**
 
-```text
-📁 Weather-Forecast
- ├── 📄 index.html
- ├── 🖼️ image.png
- └── 📋 start.bat
-```
+This isn't a project I built recently.
 
----
+I made it in 1st year, 2nd semester, when I was just getting started with web development.
 
-## 🌱 Looking Back
+At the time, I was learning how websites work, how JavaScript can make a page interactive, and — most importantly — how to work with an external API and turn real-world data into something useful.
 
-This project was one of my first hands-on experiences with building something beyond a static webpage.
+I'm uploading it now in 3rd year because I want my GitHub to reflect the projects I've built throughout my learning journey — not just the projects that are polished enough to show today.
 
-While working on it, I got to experiment with **APIs, asynchronous data, dynamic interfaces, responsive design, and client-side JavaScript** — concepts that became the foundation for many of the projects I worked on later.
-
-It's simple compared to what I build today, but that's exactly why I wanted to keep it here.
-
-> **Every project doesn't have to show where you are. Some show where you started.**
+Every project doesn't have to show where you are. Some show where you started.
 
 ---
 
+<div align="center">
+        
 ### 🌤️ Thanks for stopping by!
 
 ⭐ If you found the project interesting, consider starring the repository.
+
+</div>
