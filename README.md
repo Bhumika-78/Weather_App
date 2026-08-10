@@ -1,7 +1,6 @@
-# WEATHER
 # 🌦️ Weather Forecast
 
-> A beginner web project I built during my **1st year (2nd semester)** while learning HTML, CSS, JavaScript, and APIs.
+> A beginner web project I built during my **1st year** while learning HTML, CSS, JavaScript and APIs.
 >
 > I'm adding it to GitHub now in my **3rd year** as part of my development journey — a small snapshot of where I started with web development.
 
@@ -24,29 +23,37 @@
 <img width="952" height="479" alt="image" src="https://github.com/user-attachments/assets/7d2582bf-9cff-4a1b-8d8b-ef673dcca782" />
 
 
-## ✨ What can it do?
+✨ What can it do?
 
-**Search → Explore → Download**
+Search → Explore → Save
 
-🌍 **Search any city**
+🌍 Search any city
 Get live weather information for cities around the world.
 
-🌡️ **Current conditions**
+🌡️ Current conditions
 Temperature, feels-like temperature, weather description and more.
 
-💨 **Weather highlights**
+💨 Weather highlights
 Wind · Humidity · Visibility · Cloud Coverage
 
-🕐 **Forecasts**
+🕐 Forecasts
 Switch between hourly, daily and weekly weather information.
 
-📄 **PDF Reports**
-Download the forecast as a PDF for later reference.
+📄 Downloadable PDF Reports
+Save the forecast as a PDF so you can keep a copy of the weather information even when you don't have an internet connection.
 
-🌤️ **Dynamic visuals**
+This can be useful when:
+
+🏕️ Travelling to areas with limited connectivity — download the forecast before leaving and keep it with you.
+✈️ Planning a trip — save the forecast for your destination before travelling.
+🥾 Outdoor activities — keep a copy of the forecast for places where network coverage may be unreliable.
+📱 Offline reference — access the saved forecast without reopening the website.
+📤 Sharing — easily send the weather report to someone else.
+
+🌤️ Dynamic visuals
 The interface changes depending on the weather, temperature and time of day.
 
-📱 **Responsive**
+📱 Responsive
 Designed to work across desktop and mobile screens.
 
 ---
@@ -90,10 +97,7 @@ jsPDF          → PDF generation
 
 That's it.
 
-**No framework.
-No build tools.
-No complicated setup.**
-
+**No framework • No build tools • No complicated setup.**
 Just **HTML + CSS + JavaScript + an API**.
 
 ---
@@ -112,75 +116,15 @@ Just **HTML + CSS + JavaScript + an API**.
 ## 🕰️ A little context
 
 This isn't a project I built recently.
+I made it in **1st year**, when I was just getting started with web development.
 
-I made it in **1st year, 2nd semester**, when I was just getting started with web development.
+At the time, I was learning how websites work, how JavaScript can make a page interactive and most importantly — how to work with an external API and turn real-world data into something useful.
 
-At the time, I was learning how websites work, how JavaScript can make a page interactive, and — most importantly — how to work with an external API and turn real-world data into something useful.
-
-I'm uploading it now in **3rd year** because I want my GitHub to reflect the projects I've built throughout my learning journey — not just the projects that are polished enough to show today.
-
-> **Every project doesn't have to show where you are. Some show where you started.**
-
----
-
-## 📌 Project Timeline
-
-|                 |                            |
-| --------------- | -------------------------- |
-| 🛠️ **Built**   | 1st Year · 2nd Semester    |
-| 📚 **Level**    | Beginner                   |
-| 🚀 **Uploaded** | 3rd Year                   |
-| 🎯 **Purpose**  | Learning & experimentation |
-
----
-
-## 🌱 From where I started
-
-This project is a small piece of my journey from writing my first HTML pages to building larger projects and exploring more advanced technologies.
-
-**Keeping the old projects matters too.**
-
----
-
-
-
-✨ What can it do?
-
-Search → Explore → Save
-
-🌍 Search any city
-Get live weather information for cities around the world.
-
-🌡️ Current conditions
-Temperature, feels-like temperature, weather description and more.
-
-💨 Weather highlights
-Wind · Humidity · Visibility · Cloud Coverage
-
-🕐 Forecasts
-Switch between hourly, daily and weekly weather information.
-
-📄 Downloadable PDF Reports
-Save the forecast as a PDF so you can keep a copy of the weather information even when you don't have an internet connection.
-
-This can be useful when:
-
-🏕️ Travelling to areas with limited connectivity — download the forecast before leaving and keep it with you.
-✈️ Planning a trip — save the forecast for your destination before travelling.
-🥾 Outdoor activities — keep a copy of the forecast for places where network coverage may be unreliable.
-📱 Offline reference — access the saved forecast without reopening the website.
-📤 Sharing — easily send the weather report to someone else.
-
-🌤️ Dynamic visuals
-The interface changes depending on the weather, temperature and time of day.
-
-📱 Responsive
-Designed to work across desktop and mobile screens.
+I'm uploading it now in **3rd year** because I want my GitHub to reflect the projects I've built throughout my learning journey not just the projects that are polished enough to show today.
 
 <div align="center">
 
 ### 🌤️ Thanks for stopping by!
-
 ⭐ If you found the project interesting, consider starring the repository.
 
 </div>
