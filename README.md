@@ -1,60 +1,73 @@
 # 🌦️ Weather Forecast
 
-> A beginner web project I built during my **1st year** while learning HTML, CSS, JavaScript and APIs.
+> A beginner web project I built during my **1st year** while learning HTML, CSS, JavaScript, and APIs.
 >
-> I'm adding it to GitHub now in my **3rd year** as part of my development journey — a small snapshot of where I started with web development.
+> I'm adding it to GitHub now as part of documenting the projects I've built throughout my development journey.
 
 ---
 
 ## ☁️ Preview
+<img width="943" height="474" alt="image" src="https://github.com/user-attachments/assets/b6e1700a-1178-43b7-b0e8-bf33c6c9b5ad" />
 
-<img width="1900" height="949" alt="image" src="https://github.com/user-attachments/assets/82493af6-8ef7-4757-95f1-4a090060119b" />
+---
+
+## ✨ What can it do?
+
+### 🔎 Search & Current Weather
+
+🌍 **Search any city**
+Look up live weather information for cities around the world.
+<img width="948" height="473" alt="image" src="https://github.com/user-attachments/assets/ccf10ca9-8efd-4f71-a704-2e6e6b302fb1" />
+
+🌡️ **Current conditions**
+View temperature, feels-like temperature, weather description, and other real-time information.
+
+---
+
+### 📊 Weather Insights
+
+💨 **Weather highlights**
+Get a quick overview of:
+
+**Wind Speed · Humidity · Visibility · Cloud Coverage**
+
+🌤️ **Dynamic visuals**
+The interface adapts to the **weather condition, temperature, and time of day** to make the experience more visual and intuitive.
+<img width="944" height="471" alt="image" src="https://github.com/user-attachments/assets/519f53f8-5ee1-4797-8ca5-97e0d7263e25" />
+
+---
+
+### 🕐 Forecasts
+
+Choose the level of detail you need:
+
+* 🕐 **Hourly forecast** — see how the weather changes throughout the day.
+* 📅 **Daily forecast** — check upcoming daily conditions.
+* 📈 **Weekly summary** — get a broader view of the days ahead.
+
+---
+
+### 📄 Save & Take It With You
+
+**Download the forecast as a PDF** and keep an offline copy of the information.
+<img width="823" height="253" alt="image" src="https://github.com/user-attachments/assets/843ae13d-60e7-4b2a-8e43-0c1dd77ce097" />
 
 
- <img width="945" height="474" alt="image" src="https://github.com/user-attachments/assets/8e3f79ff-ee2a-4d39-92dc-4be8d7638d07" />
+This is especially useful when:
 
-<img width="959" height="472" alt="image" src="https://github.com/user-attachments/assets/182b88b5-5c6b-4761-8320-8a8257f90d23" />
+* 🏕️ Travelling to areas with limited network connectivity
+* ✈️ Planning a trip before leaving home
+* 🥾 Going on outdoor activities where coverage may be unreliable
+* 📱 Keeping a forecast available for offline reference
+* 📤 Sharing a weather report with someone else
 
-<img width="711" height="239" alt="image" src="https://github.com/user-attachments/assets/0cef6b0c-f0fd-4ac6-bc65-2de78441fe6b" />
+> The PDF is a snapshot of the forecast at the time it is downloaded, so you can access that information even without reopening the app or having an internet connection.
 
-[Uploading London_daily_forecast (1).pdf…]()
+---
 
+### 📱 Anywhere, Any Screen
 
-<img width="952" height="479" alt="image" src="https://github.com/user-attachments/assets/7d2582bf-9cff-4a1b-8d8b-ef673dcca782" />
-
-
-✨ What can it do?
-
-Search → Explore → Save
-
-🌍 Search any city
-Get live weather information for cities around the world.
-
-🌡️ Current conditions
-Temperature, feels-like temperature, weather description and more.
-
-💨 Weather highlights
-Wind · Humidity · Visibility · Cloud Coverage
-
-🕐 Forecasts
-Switch between hourly, daily and weekly weather information.
-
-📄 Downloadable PDF Reports
-Save the forecast as a PDF so you can keep a copy of the weather information even when you don't have an internet connection.
-
-This can be useful when:
-
-🏕️ Travelling to areas with limited connectivity — download the forecast before leaving and keep it with you.
-✈️ Planning a trip — save the forecast for your destination before travelling.
-🥾 Outdoor activities — keep a copy of the forecast for places where network coverage may be unreliable.
-📱 Offline reference — access the saved forecast without reopening the website.
-📤 Sharing — easily send the weather report to someone else.
-
-🌤️ Dynamic visuals
-The interface changes depending on the weather, temperature and time of day.
-
-📱 Responsive
-Designed to work across desktop and mobile screens.
+**Responsive design** that works across desktop and mobile screens.
 
 ---
 
@@ -83,7 +96,7 @@ jsPDF          → PDF generation
                ↓
       🌤️ Update the interface
                ↓
-        📄 Optional PDF export
+        📄 Export as PDF
 ```
 
 ---
@@ -92,12 +105,13 @@ jsPDF          → PDF generation
 
 1. Clone or download this repository.
 2. Open the project folder.
-3. Double-click **`index.html`** to open it in your browser.
+3. Double-click **`index.html`**.
 4. Enter a city and explore its weather.
 
 That's it.
 
-**No framework • No build tools • No complicated setup.**
+**No framework • No build tools • No complicated setup**
+
 Just **HTML + CSS + JavaScript + an API**.
 
 ---
@@ -113,19 +127,18 @@ Just **HTML + CSS + JavaScript + an API**.
 
 ---
 
-## 🕰️ A little context
+## 🌱 Looking Back
 
-This isn't a project I built recently.
-I made it in **1st year**, when I was just getting started with web development.
+This project was one of my first hands-on experiences with building something beyond a static webpage.
 
-At the time, I was learning how websites work, how JavaScript can make a page interactive and most importantly — how to work with an external API and turn real-world data into something useful.
+While working on it, I got to experiment with **APIs, asynchronous data, dynamic interfaces, responsive design, and client-side JavaScript** — concepts that became the foundation for many of the projects I worked on later.
 
-I'm uploading it now in **3rd year** because I want my GitHub to reflect the projects I've built throughout my learning journey not just the projects that are polished enough to show today.
+It's simple compared to what I build today, but that's exactly why I wanted to keep it here.
 
-<div align="center">
+> **Every project doesn't have to show where you are. Some show where you started.**
+
+---
 
 ### 🌤️ Thanks for stopping by!
+
 ⭐ If you found the project interesting, consider starring the repository.
-
-</div>
-
