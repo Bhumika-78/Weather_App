@@ -1,4 +1,4 @@
-# 🌦️ Weather Forecast
+<img width="631" height="467" alt="image" src="https://github.com/user-attachments/assets/a7f39ade-8bd2-4bbc-a1f0-be8dba0dd005" /># 🌦️ Weather Forecast
 
 > A beginner web project I built during my **1st year** while learning HTML, CSS, JavaScript, and APIs.
 >
@@ -83,6 +83,24 @@ jsPDF          → PDF generation
 ```
 
 ---
+## 🔑 API Setup
+
+This project uses the **OpenWeatherMap API** to fetch live weather data.
+
+To run the project locally:
+
+1. Create a free account on OpenWeatherMap and get your API key.
+2. Open `index.html`.
+3. Find the following line in the JavaScript:
+
+```javascript
+const API_KEY = 'YOUR_API_KEY';
+```
+
+4. Replace `YOUR_API_KEY` with **your own OpenWeatherMap API key**.
+
+> ⚠️ **Note:** Do not share or commit your API key publicly. For a production application, API keys should be stored securely using environment variables or a backend/server-side proxy.
+
 
 ## 🔄 How it works
 
