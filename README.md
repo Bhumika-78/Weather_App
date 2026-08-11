@@ -7,7 +7,7 @@
 ---
 
 ## ☁️ Preview
-<img width="943" height="474" alt="image" src="https://github.com/user-attachments/assets/b6e1700a-1178-43b7-b0e8-bf33c6c9b5ad" />
+<img src="images/preview.png" width="943">
 
 ---
 
@@ -17,7 +17,7 @@
 
 🌍 **Search any city**
 Look up live weather information for cities around the world.
-<img width="948" height="473" alt="image" src="https://github.com/user-attachments/assets/ccf10ca9-8efd-4f71-a704-2e6e6b302fb1" />
+<img src="images/current-weather.png" width="948">
 
 🌡️ **Current conditions**
 View temperature, feels-like temperature, weather description, and other real-time information.
@@ -33,7 +33,7 @@ Get a quick overview of:
 
 🌤️ **Dynamic visuals**
 The interface adapts to the **weather condition, temperature, and time of day** to make the experience more visual and intuitive.
-<img width="944" height="471" alt="image" src="https://github.com/user-attachments/assets/519f53f8-5ee1-4797-8ca5-97e0d7263e25" />
+<img src="images/weather-insights.png" width="944">
 
 ---
 
@@ -50,7 +50,7 @@ Choose the level of detail you need:
 ### 📄 Save & Take It With You
 
 **Download the forecast as a PDF** and keep an offline copy of the information.
-<img width="823" height="253" alt="image" src="https://github.com/user-attachments/assets/843ae13d-60e7-4b2a-8e43-0c1dd77ce097" />
+<img src="images/pdf-download.png" width="823">
 
 
 This is especially useful when:
@@ -62,7 +62,7 @@ This is especially useful when:
 * 📤 Sharing a weather report with someone else
 
 > The PDF is a snapshot of the forecast at the time it is downloaded, so you can access that information even without reopening the app or having an internet connection.
-<img width="903" height="446" alt="image" src="https://github.com/user-attachments/assets/0d06a50c-353e-43a7-b58b-270799cdeec2" />
+<img src="images/pdf-preview.png" width="903">
 
 ---
 
