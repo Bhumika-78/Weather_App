@@ -1,4 +1,4 @@
-<img width="631" height="467" alt="image" src="https://github.com/user-attachments/assets/a7f39ade-8bd2-4bbc-a1f0-be8dba0dd005" /># 🌦️ Weather Forecast
+# 🌦️ Weather Forecast
 
 > A beginner web project I built during my **1st year** while learning HTML, CSS, JavaScript, and APIs.
 >
